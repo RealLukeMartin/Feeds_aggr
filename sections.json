@@ -1,13 +1,8 @@
 {                                                                               
 "features": [
-{ "type": "Feature", "properties": { "Lot": 1, "Address": "11531 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "1" } },
-{ "type": "Feature", "properties": { "Lot": 2, "Address": "11527 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "2" } },
-{ "type": "Feature", "properties": { "Lot": 3, "Address": "11523 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "3" } },
-{ "type": "Feature", "properties": { "Lot": 4, "Address": "11519 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "4" } },
-{ "type": "Feature", "properties": { "Lot": 5, "Address": "11515 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "5" } },
-{ "type": "Feature", "properties": { "Lot": 6, "Address": "11511 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "6" } },
-{ "type": "Feature", "properties": { "Lot": 7, "Address": "11507 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "7" } },
-{ "type": "Feature", "properties": { "Lot": 8, "Address": "11503 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "8" } },
-{ "type": "Feature", "properties": { "Lot": 9, "Address": "11431 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "9" } }
+{ "type": "Feature", "properties": { "Lot": 1, "Address": "11531 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "[ -95.706722897298874, 29.945590047773049 ], [ -95.707029094726323, 29.94592294597695 ], [ -95.706871594505714, 29.946032815236446 ], [ -95.706846398657845, 29.946034028157474 ], [ -95.70682055495017, 29.946031659182591 ], [ -95.706798853249865, 29.946024901338141 ], [ -95.706522834749364, 29.945731669210456 ], [ -95.70654385827153, 29.945709926513249 ], [ -95.706722897298874, 29.945590047773049 ]" } },
+{ "type": "Feature", "properties": { "Lot": 2, "Address": "11527 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "[ -95.706722897298874, 29.945590047773049 ], [ -95.706922112125696, 29.945451658165307 ], [ -95.707224749117955, 29.945786025932652 ], [ -95.707029094726323, 29.94592294597695 ], [ -95.706722897298874, 29.945590047773049 ]" } },
+{ "type": "Feature", "properties": { "Lot": 3, "Address": "11523 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "[ -95.706922112125696, 29.945451658165307 ], [ -95.707119631507197, 29.945313268365013 ], [ -95.70742294667761, 29.945647930418076 ], [ -95.707224749117955, 29.945786025932652 ], [ -95.706922112125696, 29.945451658165307 ]" } },
+{ "type": "Feature", "properties": { "Lot": 4, "Address": "11519 Carson Field Lane", "Block": 1, "Section": 2, "coordinates": "[ -95.707119631507197, 29.945313268365013 ], [ -95.707317150888727, 29.945178110412431 ], [ -95.707617753346582, 29.945509834711753 ], [ -95.70742294667761, 29.945647930418076 ], [ -95.707119631507197, 29.945313268365013 ]" } }
 ]
 }
